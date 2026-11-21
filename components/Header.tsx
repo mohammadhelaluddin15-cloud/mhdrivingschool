@@ -10,6 +10,7 @@ const nav = [
   { href: "/", label: "হোম" },
   { href: "/about", label: "আমাদের সম্পর্কে" },
   { href: "/courses", label: "কোর্সসমূহ" },
+  { href: "https://training.brtc.gov.bd/circulars", label: "ফ্রি কোর্সসমূহ" },
   { href: "/gallery", label: "গ্যালারি" },
   { href: "/blogs", label: "ব্লগ" },
   { href: "/branches", label: "শাখা" },
