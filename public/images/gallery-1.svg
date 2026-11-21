@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Hands-on steering practice">
+  <defs>
+    <linearGradient id="skyg1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#DFF1FA"/><stop offset="1" stop-color="#F6FCFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#skyg1)"/>
+  <path d="M0 430 Q400 380 800 430 L800 600 L0 600 Z" fill="#263238"/>
+  <rect x="560" y="470" width="190" height="76" rx="16" fill="#37474F"/>
+  <circle cx="618" cy="508" r="24" fill="#101820"/><line x1="618" y1="508" x2="630" y2="492" stroke="#FFD66B" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="692" cy="508" r="24" fill="#101820"/><line x1="692" y1="508" x2="704" y2="492" stroke="#FFD66B" stroke-width="5" stroke-linecap="round"/>
+  <g stroke="#263238" stroke-width="30" fill="none">
+    <line x1="380" y1="330" x2="380" y2="540"/>
+    <line x1="380" y1="330" x2="150" y2="330"/>
+    <line x1="380" y1="330" x2="610" y2="330"/>
+  </g>
+  <circle cx="380" cy="330" r="210" fill="none" stroke="#263238" stroke-width="34"/>
+  <circle cx="380" cy="330" r="60" fill="#37474F"/>
+  <circle cx="380" cy="330" r="24" fill="#E8342C"/>
+  <g fill="#8D5524">
+    <rect x="118" y="296" width="76" height="60" rx="26"/>
+    <rect x="566" y="296" width="76" height="60" rx="26"/>
+  </g>
+  <g fill="#1F3B63">
+    <rect x="40" y="290" width="76" height="72" rx="20"/>
+    <rect x="644" y="290" width="76" height="72" rx="20"/>
+  </g>
+</svg>

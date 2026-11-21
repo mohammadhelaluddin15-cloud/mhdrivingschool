@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Car driving lesson">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#A9DCEF"/><stop offset="1" stop-color="#EAF7FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <circle cx="1330" cy="150" r="100" fill="#FFD66B" opacity="0.25"/>
+  <circle cx="1330" cy="150" r="62" fill="#FFD66B"/>
+  <g fill="#FFFFFF" opacity="0.92">
+    <ellipse cx="330" cy="150" rx="95" ry="28"/><ellipse cx="410" cy="128" rx="70" ry="24"/>
+    <ellipse cx="760" cy="110" rx="80" ry="24"/><ellipse cx="830" cy="130" rx="55" ry="20"/>
+  </g>
+  <rect x="0" y="600" width="1600" height="140" fill="#A8D68C"/>
+  <rect x="0" y="700" width="1600" height="40" fill="#7FBF6A"/>
+  <g>
+    <path d="M170 660 q-14 -90 20 -190" stroke="#8D6E63" stroke-width="18" fill="none" stroke-linecap="round"/>
+    <g fill="#3F9142">
+      <ellipse cx="190" cy="452" rx="74" ry="18" transform="rotate(-58 190 452)"/>
+      <ellipse cx="190" cy="452" rx="74" ry="18" transform="rotate(-25 190 452)" fill="#57A85B"/>
+      <ellipse cx="190" cy="452" rx="74" ry="18" transform="rotate(4 190 452)"/>
+      <ellipse cx="190" cy="452" rx="74" ry="18" transform="rotate(32 190 452)" fill="#57A85B"/>
+      <ellipse cx="190" cy="452" rx="74" ry="18" transform="rotate(62 190 452)"/>
+    </g>
+  </g>
+  <g>
+    <path d="M1462 640 q10 -80 -18 -170" stroke="#8D6E63" stroke-width="16" fill="none" stroke-linecap="round"/>
+    <g fill="#3F9142">
+      <ellipse cx="1444" cy="458" rx="64" ry="16" transform="rotate(-55 1444 458)"/>
+      <ellipse cx="1444" cy="458" rx="64" ry="16" transform="rotate(-22 1444 458)" fill="#57A85B"/>
+      <ellipse cx="1444" cy="458" rx="64" ry="16" transform="rotate(8 1444 458)"/>
+      <ellipse cx="1444" cy="458" rx="64" ry="16" transform="rotate(38 1444 458)" fill="#57A85B"/>
+    </g>
+  </g>
+  <rect x="0" y="740" width="1600" height="160" fill="#4A5A64"/>
+  <g fill="#EEF3F5">
+    <rect x="40" y="815" width="90" height="10" rx="5"/><rect x="260" y="815" width="90" height="10" rx="5"/>
+    <rect x="480" y="815" width="90" height="10" rx="5"/><rect x="700" y="815" width="90" height="10" rx="5"/>
+    <rect x="1140" y="815" width="90" height="10" rx="5"/><rect x="1360" y="815" width="90" height="10" rx="5"/>
+  </g>
+  <g transform="translate(860 600)">
+    <ellipse cx="246" cy="216" rx="252" ry="20" fill="#1F2A30" opacity="0.25"/>
+    <path d="M118 118 L158 40 Q166 30 180 30 L320 30 Q336 30 344 42 L386 118 Z" fill="#F7F9FB"/>
+    <path d="M152 112 L182 48 L236 48 L236 112 Z" fill="#BFE3F2"/>
+    <path d="M256 48 L312 48 L344 112 L256 112 Z" fill="#BFE3F2"/>
+    <circle cx="206" cy="80" r="17" fill="#8D5524"/>
+    <circle cx="300" cy="80" r="17" fill="#5C3A1E"/>
+    <rect x="20" y="118" width="456" height="78" rx="30" fill="#F7F9FB"/>
+    <rect x="20" y="160" width="456" height="14" fill="#E8342C"/>
+    <rect x="252" y="142" width="28" height="6" rx="3" fill="#9AA7AE"/>
+    <g transform="translate(30 152)">
+      <rect width="46" height="46" rx="8" fill="#E8342C"/>
+      <text x="23" y="36" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900" fill="#FFFFFF">L</text>
+    </g>
+    <circle cx="112" cy="196" r="44" fill="#263238"/><circle cx="112" cy="196" r="18" fill="#B0BEC5"/>
+    <circle cx="384" cy="196" r="44" fill="#263238"/><circle cx="384" cy="196" r="18" fill="#B0BEC5"/>
+  </g>
+</svg>

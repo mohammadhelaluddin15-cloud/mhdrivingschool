@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Car training">
+  <defs>
+    <linearGradient id="skyc" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#A9DCEF"/><stop offset="1" stop-color="#EAF7FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#skyc)"/>
+  <circle cx="670" cy="110" r="46" fill="#FFD66B"/>
+  <circle cx="670" cy="110" r="74" fill="#FFD66B" opacity="0.25"/>
+  <g fill="#FFFFFF" opacity="0.92">
+    <ellipse cx="180" cy="120" rx="64" ry="20"/><ellipse cx="236" cy="104" rx="46" ry="16"/>
+  </g>
+  <rect x="0" y="400" width="800" height="80" fill="#A8D68C"/>
+  <rect x="0" y="440" width="800" height="160" fill="#4A5A64"/>
+  <g fill="#EEF3F5">
+    <rect x="30" y="512" width="80" height="9" rx="4"/><rect x="230" y="512" width="80" height="9" rx="4"/>
+    <rect x="430" y="512" width="80" height="9" rx="4"/><rect x="630" y="512" width="80" height="9" rx="4"/>
+  </g>
+  <g transform="translate(140 380)">
+    <ellipse cx="220" cy="116" rx="230" ry="16" fill="#1F2A30" opacity="0.22"/>
+    <path d="M96 6 L128 -58 Q136 -68 150 -68 L286 -68 Q300 -68 308 -56 L346 6 Z" fill="#F7F9FB"/>
+    <path d="M124 0 L152 -56 L208 -56 L208 0 Z" fill="#BFE3F2"/>
+    <path d="M228 -56 L280 -56 L308 0 L228 0 Z" fill="#BFE3F2"/>
+    <circle cx="174" cy="-26" r="14" fill="#8D5524"/>
+    <circle cx="258" cy="-26" r="14" fill="#5C3A1E"/>
+    <rect x="6" y="0" width="408" height="68" rx="26" fill="#F7F9FB"/>
+    <rect x="6" y="36" width="408" height="12" fill="#E8342C"/>
+    <g transform="translate(18 44)">
+      <rect width="38" height="38" rx="7" fill="#E8342C"/>
+      <text x="19" y="30" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" fill="#FFFFFF">L</text>
+    </g>
+    <circle cx="100" cy="70" r="36" fill="#263238"/><circle cx="100" cy="70" r="14" fill="#B0BEC5"/>
+    <circle cx="330" cy="70" r="36" fill="#263238"/><circle cx="330" cy="70" r="14" fill="#B0BEC5"/>
+  </g>
+</svg>

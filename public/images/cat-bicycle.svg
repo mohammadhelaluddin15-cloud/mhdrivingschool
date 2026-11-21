@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Bicycle course">
+  <defs>
+    <linearGradient id="skybi" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#A9DCEF"/><stop offset="1" stop-color="#EAF7FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#skybi)"/>
+  <circle cx="140" cy="110" r="44" fill="#FFD66B"/>
+  <g fill="#FFFFFF" opacity="0.92">
+    <ellipse cx="560" cy="110" rx="62" ry="18"/><ellipse cx="624" cy="94" rx="44" ry="15"/>
+  </g>
+  <rect x="0" y="400" width="800" height="70" fill="#A8D68C"/>
+  <rect x="0" y="440" width="800" height="160" fill="#54646D"/>
+  <g fill="#EEF3F5">
+    <rect x="40" y="512" width="70" height="9" rx="4"/><rect x="240" y="512" width="70" height="9" rx="4"/>
+    <rect x="440" y="512" width="70" height="9" rx="4"/><rect x="640" y="512" width="70" height="9" rx="4"/>
+  </g>
+  <g transform="translate(50 270)">
+    <ellipse cx="340" cy="236" rx="300" ry="12" fill="#1F2A30" opacity="0.18"/>
+    <g fill="none" stroke="#37474F" stroke-width="13">
+      <circle cx="150" cy="150" r="84"/>
+      <circle cx="530" cy="150" r="84"/>
+    </g>
+    <g stroke="#90A4AE" stroke-width="3">
+      <line x1="150" y1="72" x2="150" y2="228"/><line x1="72" y1="150" x2="228" y2="150"/>
+      <line x1="96" y1="96" x2="204" y2="204"/><line x1="204" y1="96" x2="96" y2="204"/>
+      <line x1="530" y1="72" x2="530" y2="228"/><line x1="452" y1="150" x2="608" y2="150"/>
+      <line x1="476" y1="96" x2="584" y2="204"/><line x1="584" y1="96" x2="476" y2="204"/>
+    </g>
+    <circle cx="150" cy="150" r="10" fill="#263238"/><circle cx="530" cy="150" r="10" fill="#263238"/>
+    <g stroke="#E8342C" stroke-width="13" fill="none" stroke-linecap="round">
+      <path d="M330 150 L302 40"/>
+      <path d="M302 44 L446 52"/>
+      <path d="M446 52 L330 150"/>
+      <path d="M446 52 L530 150"/>
+      <path d="M446 52 L436 8"/>
+    </g>
+    <path d="M404 4 Q436 -6 474 6" stroke="#263238" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <rect x="270" y="26" width="66" height="15" rx="7" fill="#263238"/>
+    <circle cx="330" cy="150" r="20" fill="#90A4AE"/>
+    <rect x="322" y="150" width="8" height="42" rx="4" fill="#263238"/>
+    <rect x="306" y="190" width="40" height="9" rx="4" fill="#263238"/>
+  </g>
+</svg>
